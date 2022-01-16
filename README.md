@@ -32,4 +32,4 @@ Chatter is at the very first steps of development, so feel free to message me wi
  #PLEASE MESSAGE ME IF YOU GET ANY ERRORS OR ARE CONFUSED.
 
 
-
+Watch my Video: https://youtu.be/D8VDjenEVvI
