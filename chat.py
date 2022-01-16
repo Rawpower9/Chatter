@@ -25,7 +25,7 @@ v_layout = QVBoxLayout()
 btn1 = QPushButton('Send')
 btn1.setShortcut("return")
 
-chatInput = QLineEdit("Type here to chat!")
+chatInput = QLineEdit("localhost:PORT")
 chatInput.setMaximumSize(window.width(), 50)
 
 chatb = QPlainTextEdit("---This is the start of the chat---")
